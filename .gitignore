@@ -130,3 +130,7 @@ dmypy.json
 
 # IPython checkpoints
 notebooks/.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
